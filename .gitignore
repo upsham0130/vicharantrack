@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.openai/local/
+
+.vercel/
+.env.local
+.env.*.local
+
+.vercel
+.env*
+
+outputs/
+.impeccable/
+__pycache__/
+*.pyc

@@ -1,0 +1,12 @@
+{
+  "original": 10475,
+  "total": 42303,
+  "added": {
+    "psm": 31386,
+    "msm": 370,
+    "psm2016": 72
+  },
+  "removed": 0,
+  "rangePolicy": "Arrival and departure dates included; distinct same-day places preserved; existing archive photos preferred for matching guru/date/place.",
+  "psm2016": "January 1 through August 12, excluding August 13 and later."
+}
